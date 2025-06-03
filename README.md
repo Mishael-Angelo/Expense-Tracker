@@ -78,7 +78,6 @@ run the main.py
 
 ## 📌 Future Enhancements
 
-- Save/load expense data to/from local file (CSV/JSON)
 - Monthly/yearly filters and graphs (via Matplotlib)
 - Email report feature
 - Multi-receipt batch processing
@@ -89,9 +88,9 @@ run the main.py
 ## 🧑‍💻 Author
 
 Made by [
-Usman-wamba Mishael
-NDIBE MICHAEL CHUKWUNONSO
-Adeiyi Abdulsamad
-Ayantunde Joshua Opeyemi]
+Usman-wamba Mishael,
+NDIBE MICHAEL CHUKWUNONSO,
+Adeiyi Abdulsamad,
+Ayantunde Joshua Opeyemi.]
 
 ---
