@@ -1,0 +1,6 @@
+easyocr # OCR engine to read receipt content
+fpdf #— Generate PDF reports
+pdf2image #Convert PDFs to images for OCR
+pillow
+requests # For togetherAI Natural language model for expense categorization
+tk
